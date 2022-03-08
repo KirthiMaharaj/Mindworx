@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="register">register</string>
+    <string name="tag">signup</string>
+    <string name="your_name">Name</string>
+    <string name="e_mail">email</string>
+    <string name="password">Password</string>
+    <string name="re_type_password">retype</string>
+    <string name="login">Login</string>
+    <string name="swipe_left_for_register">swipe left for register</string>
+    <string name="swipe_right_for_login">swipe right login</string>
+    <string name="enter_password">Password</string>
+    <string name="click_here_to_login">click here to login</string>
+    <string name="enter_username">Username</string>
+    <string name="click_here_to_register">click here to register</string>
+    <string name="no_users_found">no users found</string>
+    <string name="write_a_message">write a message</string>
+</resources>
